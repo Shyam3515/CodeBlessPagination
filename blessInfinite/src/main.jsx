@@ -8,8 +8,6 @@ createRoot(document.getElementById("root")).render(
   <StrictMode>
     {/* Pagination */}
     <App />
-
-    {/* Infinite Scrolling */}
-    {/* <App1 /> */}
+    
   </StrictMode>
 );
